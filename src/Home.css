@@ -1,0 +1,16 @@
+/* src/Home.css */
+.profile-section {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-top: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .profile-section h2 {
+    margin-bottom: 10px;
+  }
+  
+  .profile-section p {
+    margin: 5px 0;
+  }
+  

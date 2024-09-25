@@ -1,0 +1,35 @@
+[
+  {
+    "heading": "Address Details",
+    "fields": [
+      {
+        "label": "Street Address",
+        "type": "text",
+        "id": "streetAddress",
+        "text": "Enter your street address"
+      },
+      {
+        "label": "City",
+        "type": "text",
+        "id": "city",
+        "text": "Enter your city"
+      },
+      {
+        "label": "State",
+        "type": "text",
+        "id": "state",
+        "text": "Enter your state"
+      },
+      {
+        "label": "Zip Code",
+        "type": "text",
+        "id": "zipCode",
+        "text": "Enter your zip code"
+      }
+    ],
+    "button": {
+      "id": "addressSubmitButton",
+      "label": "Submit Address"
+    }
+  }
+]
